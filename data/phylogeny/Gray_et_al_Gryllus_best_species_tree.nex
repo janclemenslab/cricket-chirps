@@ -1,0 +1,107 @@
+#NEXUS
+[R-package APE, Fri Sep 13 11:02:52 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 47;
+	TAXLABELS
+		2016-034_Gryllus_staccato
+		2016-033_Gryllus_lineaticeps
+		2016-039_Gryllus_longicercus
+		2016-040_Gryllus_navajo
+		2016-025_Gryllus_vulcanus_*El_Malpais
+		2016-037_Gryllus_regularis
+		G3335_Gryllus_vocalis
+		G3393_Gryllus_brevicaudus
+		G3180_Gryllus_saxatilis_*mormoni
+		G3400_Gryllus_chisosensis
+		G451_Gryllus_alexanderi
+		G3373_Gryllus_assimilis
+		G3374_Gryllus_armatus
+		G710_Gryllus_pennsylvanicus
+		G3422_Gryllus_saxatilis_*tulare
+		G3416_Gryllus_integer
+		G3382_Gryllus_texensis
+		G3088_Gryllus_planeta
+		G3334_Gryllus_veletisoides
+		G62_Gryllus_firmus_*Florida
+		G3310_Gryllus_saxatilis
+		d437_Gryllus_rubens
+		1999-101_Gryllus_bimaculatus
+		G2776_Gryllus_cohni
+		G1340_Gryllus_makhosica
+		G1357_Gryllus_personatus
+		G1414_Gryllus_multipulsator
+		G2159_Gryllus_locorojo
+		G30_Gryllus_veletis
+		G34_Gryllus_fultoni
+		G3083_Gryllus_transpecos
+		G274_Gryllus_insularis
+		G1123_Gryllus_montis_*Clade_4
+		GBM05_Gryllus_bryanti
+		G3090_Gryllus_sotol
+		G2665_Gryllus_lightfooti
+		G3475_Gryllus_leei
+		2017-044_Gryllus_campestris
+		G1151_Gryllus_montis_*Clade_3
+		G2754_Gryllus_vernalis
+		G2464_Gryllus_montis_*Clade_1
+		G2018_Gryllus_thinos
+		G1920_Gryllus_firmus_*Texas
+		G1330_Gryllus_veintinueve
+		2018-002_Gryllus_cayensis
+		G2491_Gryllus_montis_*Clade_2
+		2018-001_Gryllus_ovisopis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	2016-034_Gryllus_staccato,
+		2	2016-033_Gryllus_lineaticeps,
+		3	2016-039_Gryllus_longicercus,
+		4	2016-040_Gryllus_navajo,
+		5	2016-025_Gryllus_vulcanus_*El_Malpais,
+		6	2016-037_Gryllus_regularis,
+		7	G3335_Gryllus_vocalis,
+		8	G3393_Gryllus_brevicaudus,
+		9	G3180_Gryllus_saxatilis_*mormoni,
+		10	G3400_Gryllus_chisosensis,
+		11	G451_Gryllus_alexanderi,
+		12	G3373_Gryllus_assimilis,
+		13	G3374_Gryllus_armatus,
+		14	G710_Gryllus_pennsylvanicus,
+		15	G3422_Gryllus_saxatilis_*tulare,
+		16	G3416_Gryllus_integer,
+		17	G3382_Gryllus_texensis,
+		18	G3088_Gryllus_planeta,
+		19	G3334_Gryllus_veletisoides,
+		20	G62_Gryllus_firmus_*Florida,
+		21	G3310_Gryllus_saxatilis,
+		22	d437_Gryllus_rubens,
+		23	1999-101_Gryllus_bimaculatus,
+		24	G2776_Gryllus_cohni,
+		25	G1340_Gryllus_makhosica,
+		26	G1357_Gryllus_personatus,
+		27	G1414_Gryllus_multipulsator,
+		28	G2159_Gryllus_locorojo,
+		29	G30_Gryllus_veletis,
+		30	G34_Gryllus_fultoni,
+		31	G3083_Gryllus_transpecos,
+		32	G274_Gryllus_insularis,
+		33	G1123_Gryllus_montis_*Clade_4,
+		34	GBM05_Gryllus_bryanti,
+		35	G3090_Gryllus_sotol,
+		36	G2665_Gryllus_lightfooti,
+		37	G3475_Gryllus_leei,
+		38	2017-044_Gryllus_campestris,
+		39	G1151_Gryllus_montis_*Clade_3,
+		40	G2754_Gryllus_vernalis,
+		41	G2464_Gryllus_montis_*Clade_1,
+		42	G2018_Gryllus_thinos,
+		43	G1920_Gryllus_firmus_*Texas,
+		44	G1330_Gryllus_veintinueve,
+		45	2018-002_Gryllus_cayensis,
+		46	G2491_Gryllus_montis_*Clade_2,
+		47	2018-001_Gryllus_ovisopis
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((25:0.001527023997,21:0.0009969457717)63:0.0002173092323,(9:0.001603281612,15:0.001533124189)94:0.0003336014988)46:0.0001980270416,(37:0.001783842871,4:0.001408338847)52:0.0002209065414)67:0.00104230364,33:0.002710601708)97:0.0005207054883,(3:0.001791731291,5:0.001303434915)100:0.001646768982)43:0.0002875843781,((35:0.0024576568,36:0.002728571743)49:0.0004120535158,31:0.002967172672)100:0.0003486206923)100:0.000645986702,(46:0.00485902392,39:0.003464372895)44:0.0005552587858)76:0.000550454673,19:0.003813769688)100:0.0006294346984,10:0.004477802479)92:0.0006562576942,((2:0.002160434874,1:0.00124443252)73:0.001000468983,26:0.001566855648)100:0.003234704594)100:0.0007920884921,(7:0.004490358361,24:0.004887679987)100:0.001857791383)85:0.00050330003,(((29:0.003643609949,(41:0.003990539523,18:0.003368285979)100:0.0008165742621)96:0.0008218154806,((45:0.003650364023,30:0.002611933694)100:0.001246759314,40:0.004258461416)100:0.00103713636)85:0.0004265091636,((13:0.002612948651,16:0.003358385337)100:0.003198059691,((17:0.002147790556,6:0.002714075772)100:0.0009838679801,22:0.002885983122)100:0.002113538095)100:0.000806600889)85:0.0003817114894)85:0.000422026757,((((43:0.002649976227,14:0.002843044554)100:0.001393713525,20:0.003563382469)100:0.002417517699,(((27:0.0009085994149,12:0.001069843825)100:0.007347160435,28:0.006776695849)100:0.00141874415,44:0.006836658734)100:0.001025792271)100:0.0009004422695,(47:0.003776930626,42:0.004956143512)100:0.001778102586)100:0.0009647481794)99:0.0006043634199,34:0.008791959548)100:0.0004400420205,(32:0.002284857241,8:0.00346514679)100:0.00213677288)100:0.0005836323643,11:0.004289300872)100:0.001524234719,(23:0.007739868948,38:0.004616331556)100:0.004311863371)100;
+END;

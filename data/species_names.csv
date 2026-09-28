@@ -1,0 +1,15 @@
+species_code,figure_code,species_name,original_notebook_name
+ARM,ARM,Gryllus armatus,
+BIM,BIM,Gryllus bimaculatus,
+FIR,FIR,Gryllus firmus,
+G13,LON,Gryllus longicercus,
+G14,REG,Gryllus regularis,
+G15,STA,Gryllus staccato,
+LIN,LIN,Gryllus lineaticeps,
+PER,PER,Gryllus personatus,
+RUB,RUB,Gryllus rubens,
+TEX,TEX,Gryllus texensis,
+TUL,TUL,Gryllus saxatilis 'Tulare',
+VEL,VEL,Gryllus veletis,
+VOC,VOC,Gryllus vocalis,
+YUC,LIG,Gryllus lightfooti,Yucca
